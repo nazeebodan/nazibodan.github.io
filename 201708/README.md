@@ -11,3 +11,11 @@ $$
 $$
 \log _ax=\frac{\log _bx}{\log _b3}
 $$
+
+$$
+\left[ \begin{matrix}
+	\sigma _{xx}&		\tau _{xy}&		\tau _{xz}\\
+	\tau _{yx}&		\sigma _{yy}&		\tau _{yz}\\
+	\tau _{zx}&		\tau _{zy}&		\sigma _{zz}\\
+\end{matrix} \right] 
+$$
