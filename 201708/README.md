@@ -8,5 +8,6 @@ $$
 \end{matrix}
 $$
 
-ax^{2} + by^{2} + c = 0
-x=−b±b2−4ac√2a
+$$
+\log _ax=\frac{\log _bx}{\log _b3}
+$$
